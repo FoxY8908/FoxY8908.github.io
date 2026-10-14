@@ -1,14 +1,98 @@
-[
-  {
-    "who": "Anonyme",
-    "date": "14/10/2026 17:05:04",
-    "text": "yo",
-    "att": [
-      {
-        "name": "project.godot",
-        "size": 2375,
-        "data": "data:application/octet-stream;base64,OyBFbmdpbmUgY29uZmlndXJhdGlvbiBmaWxlLgo7IEl0J3MgYmVzdCBlZGl0ZWQgdXNpbmcgdGhlIGVkaXRvciBVSSBhbmQgbm90IGRpcmVjdGx5LAo7IHNpbmNlIHRoZSBwYXJhbWV0ZXJzIHRoYXQgZ28gaGVyZSBhcmUgbm90IGFsbCBvYnZpb3VzLgo7CjsgRm9ybWF0Ogo7ICAgW3NlY3Rpb25dIDsgc2VjdGlvbiBnb2VzIGJldHdlZW4gW10KOyAgIHBhcmFtPXZhbHVlIDsgYXNzaWduIHZhbHVlcyB0byBwYXJhbWV0ZXJzCgpjb25maWdfdmVyc2lvbj01CgpbYXBwbGljYXRpb25dCgpjb25maWcvbmFtZT0iZ2FtZWphbSIKY29uZmlnL2ZlYXR1cmVzPVBhY2tlZFN0cmluZ0FycmF5KCI0LjciLCAiR0wgQ29tcGF0aWJpbGl0eSIpCmNvbmZpZy9pY29uPSJyZXM6Ly9pY29uLnN2ZyIKCltkaXNwbGF5XQoKd2luZG93L3N0cmV0Y2gvbW9kZT0iY2FudmFzX2l0ZW1zIgp3aW5kb3cvc3RyZXRjaC9hc3BlY3Q9ImV4cGFuZCIKCltpbnB1dF0KCmp1bXA9ewoiZGVhZHpvbmUiOiAwLjIsCiJldmVudHMiOiBbT2JqZWN0KElucHV0RXZlbnRLZXksInJlc291cmNlX2xvY2FsX3RvX3NjZW5lIjpmYWxzZSwicmVzb3VyY2VfbmFtZSI6IiIsImRldmljZSI6LTEsIndpbmRvd19pZCI6MCwiYWx0X3ByZXNzZWQiOmZhbHNlLCJzaGlmdF9wcmVzc2VkIjpmYWxzZSwiY3RybF9wcmVzc2VkIjpmYWxzZSwibWV0YV9wcmVzc2VkIjpmYWxzZSwicHJlc3NlZCI6ZmFsc2UsImtleWNvZGUiOjAsInBoeXNpY2FsX2tleWNvZGUiOjMyLCJrZXlfbGFiZWwiOjAsInVuaWNvZGUiOjMyLCJsb2NhdGlvbiI6MCwiZWNobyI6ZmFsc2UsInNjcmlwdCI6bnVsbCkKXQp9CmxlZnQ9ewoiZGVhZHpvbmUiOiAwLjIsCiJldmVudHMiOiBbT2JqZWN0KElucHV0RXZlbnRLZXksInJlc291cmNlX2xvY2FsX3RvX3NjZW5lIjpmYWxzZSwicmVzb3VyY2VfbmFtZSI6IiIsImRldmljZSI6LTEsIndpbmRvd19pZCI6MCwiYWx0X3ByZXNzZWQiOmZhbHNlLCJzaGlmdF9wcmVzc2VkIjpmYWxzZSwiY3RybF9wcmVzc2VkIjpmYWxzZSwibWV0YV9wcmVzc2VkIjpmYWxzZSwicHJlc3NlZCI6ZmFsc2UsImtleWNvZGUiOjAsInBoeXNpY2FsX2tleWNvZGUiOjY1LCJrZXlfbGFiZWwiOjAsInVuaWNvZGUiOjExMywibG9jYXRpb24iOjAsImVjaG8iOmZhbHNlLCJzY3JpcHQiOm51bGwpCl0KfQpyaWdodD17CiJkZWFkem9uZSI6IDAuMiwKImV2ZW50cyI6IFtPYmplY3QoSW5wdXRFdmVudEtleSwicmVzb3VyY2VfbG9jYWxfdG9fc2NlbmUiOmZhbHNlLCJyZXNvdXJjZV9uYW1lIjoiIiwiZGV2aWNlIjotMSwid2luZG93X2lkIjowLCJhbHRfcHJlc3NlZCI6ZmFsc2UsInNoaWZ0X3ByZXNzZWQiOmZhbHNlLCJjdHJsX3ByZXNzZWQiOmZhbHNlLCJtZXRhX3ByZXNzZWQiOmZhbHNlLCJwcmVzc2VkIjpmYWxzZSwia2V5Y29kZSI6MCwicGh5c2ljYWxfa2V5Y29kZSI6NjgsImtleV9sYWJlbCI6MCwidW5pY29kZSI6MTAwLCJsb2NhdGlvbiI6MCwiZWNobyI6ZmFsc2UsInNjcmlwdCI6bnVsbCkKXQp9CmZvcmV3YXJkPXsKImRlYWR6b25lIjogMC4yLAoiZXZlbnRzIjogW09iamVjdChJbnB1dEV2ZW50S2V5LCJyZXNvdXJjZV9sb2NhbF90b19zY2VuZSI6ZmFsc2UsInJlc291cmNlX25hbWUiOiIiLCJkZXZpY2UiOi0xLCJ3aW5kb3dfaWQiOjAsImFsdF9wcmVzc2VkIjpmYWxzZSwic2hpZnRfcHJlc3NlZCI6ZmFsc2UsImN0cmxfcHJlc3NlZCI6ZmFsc2UsIm1ldGFfcHJlc3NlZCI6ZmFsc2UsInByZXNzZWQiOmZhbHNlLCJrZXljb2RlIjowLCJwaHlzaWNhbF9rZXljb2RlIjo4Nywia2V5X2xhYmVsIjowLCJ1bmljb2RlIjoxMjIsImxvY2F0aW9uIjowLCJlY2hvIjpmYWxzZSwic2NyaXB0IjpudWxsKQpdCn0KYmFjaz17CiJkZWFkem9uZSI6IDAuMiwKImV2ZW50cyI6IFtPYmplY3QoSW5wdXRFdmVudEtleSwicmVzb3VyY2VfbG9jYWxfdG9fc2NlbmUiOmZhbHNlLCJyZXNvdXJjZV9uYW1lIjoiIiwiZGV2aWNlIjotMSwid2luZG93X2lkIjowLCJhbHRfcHJlc3NlZCI6ZmFsc2UsInNoaWZ0X3ByZXNzZWQiOmZhbHNlLCJjdHJsX3ByZXNzZWQiOmZhbHNlLCJtZXRhX3ByZXNzZWQiOmZhbHNlLCJwcmVzc2VkIjpmYWxzZSwia2V5Y29kZSI6MCwicGh5c2ljYWxfa2V5Y29kZSI6ODMsImtleV9sYWJlbCI6MCwidW5pY29kZSI6MTE1LCJsb2NhdGlvbiI6MCwiZWNobyI6ZmFsc2UsInNjcmlwdCI6bnVsbCkKXQp9CgpbcGh5c2ljc10KCjNkL3BoeXNpY3NfZW5naW5lPSJKb2x0IFBoeXNpY3MiCgpbcmVuZGVyaW5nXQoKcmVuZGVyaW5nX2RldmljZS9kcml2ZXIud2luZG93cz0iZDNkMTIiCnJlbmRlcmVyL3JlbmRlcmluZ19tZXRob2Q9ImdsX2NvbXBhdGliaWxpdHkiCnJlbmRlcmVyL3JlbmRlcmluZ19tZXRob2QubW9iaWxlPSJnbF9jb21wYXRpYmlsaXR5Igo="
-      }
-    ]
-  }
-]
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JamChat</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;background:#1e1f22;color:#e3e5e8;height:100vh;display:flex;flex-direction:column}
+#top{display:flex;align-items:center;gap:8px;padding:10px;background:#2b2d31;border-bottom:1px solid #1a1b1e}
+#top b{color:#fff;font-size:15px}
+#pseudo{background:#404249;color:#fff;border:none;border-radius:6px;padding:6px 10px;font-size:14px;width:140px}
+button{cursor:pointer;border:none;border-radius:6px;padding:6px 10px;font-size:14px;background:#404249;color:#fff}
+button:hover{background:#4e5058}
+#msgs{flex:1;overflow-y:auto;padding:16px}
+.msg{display:flex;gap:12px;margin-bottom:14px;max-width:800px}
+.avatar{width:38px;height:38px;border-radius:50%;background:#5865f2;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:bold;flex-shrink:0}
+.msg .body{min-width:0}
+.who{font-weight:600;color:#fff;font-size:14px}
+.date{font-size:11px;color:#949ba4;margin-left:8px;font-weight:normal}
+.text{font-size:14px;line-height:1.4;white-space:pre-wrap;word-wrap:break-word}
+.att{margin-top:6px;display:flex;flex-direction:column;gap:6px}
+.att a{color:#00a8fc;text-decoration:none;font-size:13px;word-break:break-all}
+.att img{max-width:320px;max-height:240px;border-radius:8px;display:block}
+#bottom{padding:10px;background:#2b2d31;border-top:1px solid #1a1b1e;display:flex;gap:8px;align-items:flex-end}
+#inp{flex:1;background:#383a40;border:none;border-radius:8px;color:#fff;padding:10px;resize:none;font-family:inherit;font-size:14px;max-height:120px}
+#filecount{font-size:11px;color:#949ba4;margin-top:4px}
+</style>
+</head>
+<body>
+<div id="top"><b>💬 JamChat</b><input id="pseudo" placeholder="Ton pseudo"></div>
+<div id="msgs"></div>
+<div id="bottom">
+<button id="btnatt" title="Joindre un fichier">📎</button>
+<textarea id="inp" rows="1" placeholder="Message... (Entrée = envoyer, Maj+Entrée = saut de ligne)"></textarea>
+<button id="btnload" title="Charger l'historique (chat.json)">📥</button>
+<button id="btnsave" title="Exporter l'historique (chat.json)">💾</button>
+<input type="file" id="file" hidden multiple>
+</div>
+<div id="filecount"></div>
+<script>
+var pending=[];
+var msgs=JSON.parse(localStorage.getItem('jamchat')||'[]');
+document.getElementById('pseudo').value=localStorage.getItem('jampseudo')||'Anonyme';
+document.getElementById('pseudo').oninput=function(){localStorage.setItem('jampseudo',this.value)};
+function save(){localStorage.setItem('jamchat',JSON.stringify(msgs))}
+function fmt(n){return n.toLocaleString('fr-FR')+' octets'}
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;')}
+function render(){
+var d=document.getElementById('msgs');d.innerHTML='';
+msgs.forEach(function(m){
+var a=document.createElement('div');a.className='msg';
+var av=document.createElement('div');av.className='avatar';av.textContent=(m.who||'?').charAt(0).toUpperCase();
+var b=document.createElement('div');b.className='body';
+b.innerHTML='<span class="who">'+esc(m.who||'Anonyme')+'</span><span class="date">'+esc(m.date||'')+'</span><div class="text">'+esc(m.text||'')+'</div>';
+(m.att||[]).forEach(function(f){
+var w=document.createElement('div');w.className='att';
+if((f.data||'').indexOf('data:image')===0){var im=document.createElement('img');im.src=f.data;w.appendChild(im)}
+var l=document.createElement('a');l.href=f.data;l.download=f.name;l.textContent='📄 '+f.name+' ('+fmt(f.size||0)+')';
+w.appendChild(l);b.appendChild(w)});
+a.appendChild(av);a.appendChild(b);d.appendChild(a)});
+d.scrollTop=d.scrollHeight}
+function send(){
+var t=document.getElementById('inp').value.trim();
+if(!t&&!pending.length)return;
+msgs.push({who:document.getElementById('pseudo').value||'Anonyme',date:new Date().toLocaleString('fr-FR'),text:t,att:pending.slice()});
+pending=[];document.getElementById('inp').value='';updFiles();save();render()}
+function updFiles(){
+document.getElementById('filecount').textContent=pending.length?'📎 '+pending.length+' fichier(s) joint(s) — ils partiront avec le prochain message':'';
+document.getElementById('btnatt').textContent=pending.length?'📎('+pending.length+')':'📎'}
+document.getElementById('btnatt').onclick=function(){document.getElementById('file').click()};
+document.getElementById('file').onchange=function(){
+for(var i=0;i<this.files.length;i++){(function(f){
+if(f.size>1048576){alert(f.name+' dépasse 1 Mo (max par pièce jointe)');return}
+var r=new FileReader();r.onload=function(){pending.push({name:f.name,size:f.size,data:r.result});updFiles()};
+r.readAsDataURL(f)})(this.files[i])}
+this.value=''};
+document.getElementById('inp').addEventListener('keydown',function(e){
+if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send()}});
+document.getElementById('btnsave').onclick=function(){
+var b=new Blob([JSON.stringify(msgs)],{type:'application/json'});
+var a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='chat.json';a.click();
+alert('chat.json téléchargé — glisse-le dans le repo GitHub (remplace l\u2019ancien)')};
+document.getElementById('btnload').onclick=function(){
+if(location.protocol.indexOf('http')===0){
+fetch('chat.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()})
+.then(function(j){msgs=j;save();render();alert('Historique chargé depuis le repo ✓')})
+.catch(function(){fallbackFile()});
+}else{fallbackFile()}};
+function fallbackFile(){
+var i=document.createElement('input');i.type='file';i.accept='.json';
+i.onchange=function(){var r=new FileReader();r.onload=function(){
+try{msgs=JSON.parse(r.result);save();render();alert('Historique chargé ✓')}catch(e){alert('Fichier JSON invalide')}};
+r.readAsText(i.files[0])};i.click()}
+render();
+</script>
+</body>
+</html>
